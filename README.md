@@ -93,6 +93,3 @@ These results show that AMI only features hold strong predictive signals for ide
 
 Perfect accuracy on a single household suggests excellent feature design but also highlights the need for testing across more homes to understand how well the model generalizes.
 
----
-png
-    └── consumption_timeseries.png
