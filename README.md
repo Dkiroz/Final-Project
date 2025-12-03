@@ -1,3 +1,23 @@
+How to Run This Project in Google Colab
+
+1. Download the two files from GitHub:
+
+The .ipynb notebook
+
+AMIDataExample.xlsx
+
+2. Open Google Colab:
+https://colab.research.google.com
+
+3. Upload the notebook:
+File → Upload notebook → select your .ipynb file.
+
+4. Upload the data file:
+Click the folder icon → upload button → select AMIDataExample.xlsx.
+
+5. Run the whole project:
+Runtime → Run all.
+
 # High Load Interval Detection Using Residential AMI Data and Machine Learning
 
 This project explores how high resolution Advanced Metering Infrastructure (AMI) data can be used to detect unusually high electricity usage at the 15 minute interval scale. The goal is to show that simple machine learning models can transform raw AMI readings into useful signals for energy conservation workflows.
