@@ -94,27 +94,5 @@ These results show that AMI only features hold strong predictive signals for ide
 Perfect accuracy on a single household suggests excellent feature design but also highlights the need for testing across more homes to understand how well the model generalizes.
 
 ---
-
-## Repository Structure
-
-```text
-Final-Project/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│   └── AMIDataExample.xlsx
-│
-├── notebooks/
-│   └── ami_high_load_classifier.ipynb
-│
-├── src/
-│   ├── cleaning.py
-│   ├── feature_engineering.py
-│   └── models.py
-│
-└── figures/
-    ├── feature_importance.png
-    ├── model_performance.png
+png
     └── consumption_timeseries.png
